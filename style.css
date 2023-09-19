@@ -98,4 +98,9 @@ body
 }
 
 
-
+/*@media screen and (max-width: 600px) {
+    .cartes_explication {
+        width: 100%;
+        
+    }
+}*/
